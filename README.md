@@ -27,8 +27,8 @@ building scalable backend applications and exploring modern software technologie
 - System Design
 
 📫 Connect with me:
-- LinkedIn: [Dhanushkumar Sivakumar](www.linkedin.com/in/dhanushkumar-sivakumar)
-- Gmail: [DhanushkumarSivakumar](dhanushkumarsivakumards@gmail.com)
+- LinkedIn: [Dhanushkumar Sivakumar](https://www.linkedin.com/in/dhanushkumar-sivakumar/)
+- Gmail: dhanushkumarsivakumards@gmail.com
 
 ---
 
